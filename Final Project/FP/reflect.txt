@@ -1,0 +1,12 @@
+As soon as I get the milestone details. I first read it thoroughly. Then I start making a basic plan of how I am going to do it and on what days and on what time. 
+I plan out the whole week accordingly. I start with making a visual studio file. Then I write the main syntax. After that I write comments for all the things that I have to code. 
+When I complete writing the comments then I start writing the codes reading the comments. This is very helpful as I do not have to think about what to code as I already have planned out everything.
+After completing the code. I debug it. First, I check for any syntax errors. Its very time consuming because my visual studio is not showing the errors properly. I tried to reinstall it but for some reason the issue is not solved.
+After checking and correcting all the syntax errors I build the solution and check its successful or not. If successful, I run the program and run it according to the script of the milestone. If everything is fine, then I submit it on the matrix.
+
+
+All the lectures are online due to this COVID-19. OOP244 is a good course which requires a lot of attention to detail. 
+Online lectures and in class lectures can never be same but can be similar. We cannot go in our past and see again what the professor taught but in online class as its being recorded we can watch them again at whatever time we want and as many times as we want. 
+This is the most helpful part. As I do not have any coding experience so there are some of the topics that I do not get in one go. So, I watch them again at my own time and pace with fresh mind. This is the thing that I enjoy the most and find helpful during the online lectures.
+
+Other than workshops, we should be given more examples like the workshops but with their answers which should not be compulsory to do. This will be every helpful for the students those who want to practice it more and more. There are examples in the notes website but we do not have answers for them so we cannot check if our code is correct and efficient or not.

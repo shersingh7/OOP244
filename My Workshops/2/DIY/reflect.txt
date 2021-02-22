@@ -1,0 +1,22 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NCC
+// Workshop:       2 (Home)
+// Date:           01/10/2020
+//==============================================
+
+In this workshop I learned who to use dynamic memory with the pointers and how to allocate and deallocate them. 
+We use dynamic memory allocation so that most of the platforms are able to use the application.
+Not every platform has huge memory. So, dynamic memory allocation is very important when developing for very small platforms with limited memory.
+We should always deallocate memory so that the ram is free of that allocated memory which prevents the memory leaks.
+We use delete [ ] to deallocate the memory. The allocated memory should always be deallocated under the scope of the pointer. 
+We should allocate new dynamic memory whenever we increase the size of the existing array as we need to add new items in that array 
+which is insufficient to add anything more than its allocated before.
+There will be no memory leak if the static memory is allocated to the application during run time.
+The compiler will always know which function to use. It will match the number of parameters they we have passed. 
+So it will know which function to call.
+
+
+

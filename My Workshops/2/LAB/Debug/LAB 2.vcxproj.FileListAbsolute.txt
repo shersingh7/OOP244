@@ -1,0 +1,4 @@
+D:\College\Computer Programmer\SEM 2\Intro to OOP\LAB 2\Debug\LAB 2.exe
+D:\College\Computer Programmer\SEM 2\Intro to OOP\LAB 2\Debug\LAB 2.pdb
+D:\College\Computer Programmer\SEM 2\Intro to OOP\Workshops\2\LAB\Debug\LAB 2.exe
+D:\College\Computer Programmer\SEM 2\Intro to OOP\Workshops\2\LAB\Debug\LAB 2.pdb

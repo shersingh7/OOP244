@@ -1,0 +1,18 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NCC
+// Workshop:       5 (DIY)
+// Date:           21/10/2020
+//==============================================
+
+I learnt that Operator keyword is used for an overloaded operation. 
+In overloaded operation, the left operand is always the current object. 
+We also use temporary objects for making the operation local and distinct.
+I also came to know that using overloaded operators make the code must compact and efficient and easier maintain. 
+I also learnt to create temporary objects by the execution of member function of the other object. I also learnt that returning a reference to object can be used with operands such as assignment or pre and post fix if they directly change the object. 
+All these things reduce the code repetition which is much easier to read and manageable. 
+I also learnt about the copy constructor and the assignment operator. 
+I came to know about the copy constructor which is used for copying a block of information and storing it to another location without any changes to the older block.
+It can be very handy for comparisons for the block of information.

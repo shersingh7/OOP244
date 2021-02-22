@@ -1,0 +1,28 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NCC
+// Workshop:       3 (DIY)
+// Date:           08/10/2020
+//==============================================
+We should never keep any variable with undefined values. It can cause many bugs in the program. 
+The best way to void this is by setting them to safe empty state. 
+
+For making them empty we assign them to a impossible value.
+
+We should always deallocate every dynamic memory that is created during the run-time.
+
+Structures are public and they do not have any private data. 
+So, we can access them without needing any member function. 
+
+Classes have both public and private data. So, we need to make member functions so that we can access the private data.
+We access the member function by typing the class name followed by :: and the function_name().
+We define the public members by typing public:. All the member functions in the class are private by default.
+
+We set the int/float/double output precision by cout << set.precision(VALUE);
+
+We can also set the width of the output by cout.width(WIDTH);
+
+We fill the output by any character by using cout.fill(‘CHARACTER’);
+

@@ -1,0 +1,2 @@
+D:\College\Computer Programmer\SEM 2\Intro to OOP\Final Project\ms2\Debug\ms2.exe
+D:\College\Computer Programmer\SEM 2\Intro to OOP\Final Project\ms2\Debug\ms2.pdb

@@ -1,0 +1,20 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NCC
+// Workshop:       4 (DIY)
+// Date:           10/10/2020
+//==============================================
+
+In this workshop, I learnt about constructor overloading. 
+I also learn about using strncpy() function which only copies string up to certain elements. 
+I learnt a lot about memory leaks and how to prevent them. I also learnt that each and everything that is dynamically allocated has to be deallocated. 
+Its best to keep track of things which are getting dynamically allocated so that its easy to deallocate them. 
+I also came to know about the print() function that returns cout object.
+I also got hands on experience on the output formatting using  setw(), left, right and fill(). 
+I also came to know about logic which calculates the length of the integer variable. 
+We also ensure that the class members don’t have any garbage value by putting them in safe empty state. 
+After copying the elements of one array to other, we must set the next character to null terminator. 
+I learnt how to return reference to current object.
+I also learnt about using the this operator. 

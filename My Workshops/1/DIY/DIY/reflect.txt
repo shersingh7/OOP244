@@ -1,0 +1,18 @@
+//==============================================
+// Name:           Davinder Verma
+// Student Number: 121802201
+// Email:          dverma22@myseneca.ca
+// Section:        NCC
+// Workshop:       1 (DIY)
+// Date:           22/09/2020
+//==============================================
+
+From this workshop I came to know that namespace is a scope for entities that it encloses.
+Its purpose is to avoid same identifier naming conflicts for different variables.
+We also need header files when we need to access objects in an external library that we do not want to recompile or avoid interfering with.
+I also came to know that we should never compile header files as we will include the header files in .cpp file and while compiling, it will automatically compile them. 
+If we compile header files, then header files will compile twice, and the compiler will give errors.
+We should never include .cpp files in other files as when compiling if we include them it will recompile and create a duplicate file.
+I also learnt the benefits of putting source code in modules. 
+As a well-designed module is highly cohesive and loosely coupled and it's easy to make changes to a module instead of whole source code when you are working with millions of lines.
+From this workshop I also learned how to create modules and use them effectively and to safeguards the header files.
