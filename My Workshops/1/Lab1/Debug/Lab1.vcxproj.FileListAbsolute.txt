@@ -1,2 +1,3 @@
 D:\College\Computer Programmer\SEM 2\Intro to OOP\Workshops\1\Lab1\Debug\Lab1.exe
 D:\College\Computer Programmer\SEM 2\Intro to OOP\Workshops\1\Lab1\Debug\Lab1.pdb
+D:\College\Computer Programmer\SEM 2\Intro to OOP\My Workshops\1\Lab1\Debug\Lab1.exe
